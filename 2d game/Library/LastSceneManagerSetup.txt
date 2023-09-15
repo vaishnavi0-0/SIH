@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Ethan the Hero/Demo/Demo.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
